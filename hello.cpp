@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 int Static[101];
 int memcheckFailDemo(int* arrayStack, unsigned int arrayStackLen, 
 	int* arrayHeap, unsigned int arrayHeapLen) {
